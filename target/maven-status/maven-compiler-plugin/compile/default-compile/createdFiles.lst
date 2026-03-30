@@ -1,0 +1,7 @@
+com\spms\parkingservice\controller\ParkingController.class
+com\spms\parkingservice\service\ParkingService.class
+com\spms\parkingservice\repository\ParkingSlotRepository.class
+com\spms\parkingservice\ParkingServiceApplication.class
+com\spms\parkingservice\model\Booking.class
+com\spms\parkingservice\model\ParkingSlot.class
+com\spms\parkingservice\repository\BookingRepository.class
